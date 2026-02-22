@@ -15,14 +15,14 @@ I’m part of building a developer community focused on sharing practical engine
 ## 🤝 Let’s connect
 
 <p align="left">
-  <a href="mailto:abdofawzi5@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  <a href="mailto:abdofawzi5@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/abdofawzi5/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abdofawzi5/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://github.com/abdofawzi5">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <a href="https://github.com/abdofawzi5" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
